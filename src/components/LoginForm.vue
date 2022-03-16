@@ -1,7 +1,7 @@
 <template>
   <v-app class="font">
     <v-main>
-      <v-container class="fill-height" fluid>
+      <v-container class="mt-5 fill-height" fluid>
         <v-row align="center" justify="center">
           <v-col cols="12" sm="8" md="8">
             <v-card elevation="12" class="blue-grey darken-3 accent-2">
